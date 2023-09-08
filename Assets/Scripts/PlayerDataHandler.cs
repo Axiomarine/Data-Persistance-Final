@@ -14,5 +14,4 @@ public class PlayerDataHandler : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
     }
-
 }
